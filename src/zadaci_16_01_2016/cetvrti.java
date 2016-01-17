@@ -9,7 +9,7 @@ import java.util.Scanner;
  * Napisati test program koji pita korisnika da unese n te ispisuje n x n matricu.
  */
 
-public class cetrvti {
+public class cetvrti {
 
 	// kreiraj metodu koja prima jedan argument
 	public static void printMatrix(int n) {
